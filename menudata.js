@@ -1,7 +1,7 @@
 const menuItems = [
 
 /* APPETIZERS */
-{name:"Malai Soy Chaap Malai",price:16.99,category:"appetizers",img:"assets/malai-soy-chaap.jpg"},
+{name:"Malai Soy Chaap",price:16.99,category:"appetizers",img:"assets/malai-soy-chaap.jpg"},
 {name:"Malai Broccoli",price:13.99,category:"appetizers",img:"assets/malai-broccoli.jpg"},
 {name:"Chingari Soy Chaap",price:16.99,category:"appetizers",img:"assets/chingari-chaap.jpg"},
 {name:"Mushroom Duplex",price:16.99,category:"appetizers",img:"assets/mushroom-duplex.jpg"},
@@ -14,14 +14,14 @@ const menuItems = [
 
 /* CHAAT */
 {name:"Samosa Chana Chaat",price:9.99,category:"chaat",img:"assets/samosa-chaat.jpg"},
-{name:"Dasi See Pun",price:9.99,category:"chaat",img:"assets/dasi-pun.jpg"},
+{name:"Dahi Sev Puri",price:9.99,category:"chaat",img:"assets/dasi-pun.jpg"},
 {name:"Aloo Tikki Chaat",price:8.99,category:"chaat",img:"assets/aloo-tikki.jpg"},
-{name:"Pineapple Shakargande",price:10.99,category:"chaat",img:"assets/pineapple-chaat.jpg"},
-{name:"Dani Papri Chaat",price:9.99,category:"chaat",img:"assets/papri-chaat.jpg"},
+{name:"Pineapple Sweet Potato Chaat",price:10.99,category:"chaat",img:"assets/pineapple-chaat.jpg"},
+{name:"Dahi Papri Chaat",price:9.99,category:"chaat",img:"assets/papri-chaat.jpg"},
 {name:"Dahi Bhalla Chaat",price:10.99,category:"chaat",img:"assets/dahi-bhalla.jpg"},
 {name:"Chaat Platter",price:18.99,category:"chaat",img:"assets/chaat-platter.jpg"},
 {name:"Pani Puri",price:8.99,category:"chaat",img:"assets/pani-puri.jpg"},
-{name:"Ruby's Special Chana Bhature",price:15.99,category:"chaat",img:"assets/chana-bhature.jpg"},
+{name:"Ruby's Special Chole Bhature (Serve with Aloo chatrey + Salad)",price:15.99,category:"chaat",img:"assets/chana-bhature.jpg"},
 {name:"Aloo Puri Chole",price:13.99,category:"chaat",img:"assets/aloo-puri.jpg"},
 
 /* SIDE ORDERS */
